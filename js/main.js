@@ -1,3 +1,10 @@
+import { suma } from './components/suma.js'
+import {atimtis } from './components/atimtis.js'
+import { daugyba } from './components/daugyba.js'
+import { dalyba } from './components/dalyba.js'
+import { vidurkis } from './components/vidurkis.js'
+
+
 const ats1 = suma(5,8)
 console.log(ats1)
 

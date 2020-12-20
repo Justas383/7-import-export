@@ -1,3 +1,5 @@
+import {suma} from './suma.js'
+import {dalyba} from './dalyba.js'
 
 function vidurkis(list) {
 
@@ -10,3 +12,5 @@ function vidurkis(list) {
     }
    return dalyba(totalSum, count)
 }
+
+export{vidurkis}
